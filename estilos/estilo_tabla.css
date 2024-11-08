@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    background-color: #181c19;
     color: #0b8045;
     margin: 0;
     padding: 20px;
@@ -11,14 +11,14 @@ body {
 header {
     text-align: center;
     background-color: #0b8045;
-    color: #fff;
+    color: #181c19;
     padding: 15px 0;
     margin-bottom: 20px;
 }
 
 
 main {
-    background-color: #fff;
+    background-color: #181c19;
     padding: 20px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     max-width: 900px;
@@ -43,7 +43,7 @@ thead {
 
 th,
 td {
-    border: 1px solid #ddd;
+    border: 1px solid #181c19;
     padding: 12px;
 }
 
@@ -81,6 +81,6 @@ nav ul li {
 }
 
 nav a {
-    color: #fff;
+    color: #181c19;
     text-decoration: none;
 }
