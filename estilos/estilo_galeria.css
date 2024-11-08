@@ -57,7 +57,9 @@ header {
 }
 
 .imagen img {
-  border-radius: 8px;
+    width: 100%;
+    display: block;
+    transition: transform 0.3s;
 }
 
 .imagen img:hover {
