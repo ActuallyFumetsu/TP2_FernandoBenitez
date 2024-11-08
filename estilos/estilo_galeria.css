@@ -57,7 +57,7 @@ header {
 }
 
 .imagen img {
-    width: 100%;
+    width: 50%;
     display: block;
     transition: transform 0.3s;
 }
